@@ -1,0 +1,24 @@
+{
+  "restaurent": [
+    {
+      "id": 1,
+      "name": "Katakirr",
+      "owner": "Kolhapuri"
+    },
+    {
+      "id": 2,
+      "name": "Katdare Misal",
+      "owner": "Katdare"
+    },
+    {
+      "id": 3,
+      "name": "Yewale Amrutatulya",
+      "owner": "Yewale"
+    },
+    {
+      "name": "Mamledar Misal",
+      "owner": "Mamledar",
+      "id": 4
+    }
+  ]
+}
